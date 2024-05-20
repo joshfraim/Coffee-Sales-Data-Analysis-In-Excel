@@ -15,7 +15,7 @@ This project involves the analysis and visualization of coffee sales data using 
 ## Tools and Technologies
   * Microsoft Excel: Primary tool for data analysis and visualization.
   * Pivot Tables: For data summarization and exploration.
-  * harts and Graphs: For visual representation of data trends and patterns.
+  * Charts and Graphs: For visual representation of data trends and patterns.
   * Data Cleaning Functions: Such as IF, VLOOKUP, CLEAN, TRIM, and REMOVE DUPLICATES.
   * Conditional Formatting: To highlight key data points.
   * Slicers: For interactive filtering and analysis.
